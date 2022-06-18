@@ -15,7 +15,7 @@ import java.util.Date;
  */
 public class Study {
    
-	Calendar calendar = Calendar.getInstance();	
+
 	public static void main(String args[]) {
 
         // Dateクラスのインスタンスを生成
